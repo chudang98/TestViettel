@@ -30,3 +30,8 @@ Cài đặt thư viện selenium
 ```
 $ pip3 install selenium
 ```
+
+Chạy file index.py để bắt đầu lấy dữ liệu từ https://airtable.com/shr7Q4iNWosrNgxoH/tblHrgb8n4fNAHI4Q
+```
+$ python index.py
+```
