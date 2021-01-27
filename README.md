@@ -21,3 +21,12 @@ Cài đặt môi trường python riêng cho project
 $ pip install virtualenv
 $ virtualenv venv --python=python3.8
 ```
+Đổi môi trưởng cmd sang môi trường python của repository
+```
+$ source venv/bin/active
+```
+
+Cài đặt thư viện selenium
+```
+$ pip3 install selenium
+```
